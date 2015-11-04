@@ -4,7 +4,9 @@ amender.py
 a simple script to amend compatibility issues between newest versions of [jaspersoft-studio](http://community.jaspersoft.com/project/jaspersoft-studio/releases) 
 and Odoo/OpenERP module.
 
-* run it
+### run it
+
+    ~$ ./amender.py -h
 
     usage: amender.py [-h] [-d DIR2WATCH] [-p PREFIX] [-r] [-v]
 
